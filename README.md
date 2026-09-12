@@ -240,4 +240,4 @@ This repository serves as the official landing page for KakaoTalk. The software 
 **Get the most recent version of KakaoTalk today!**
 
 ---
-**Last updated:** 2026-09-12 16:09:17 UTC
+**Last updated:** 2026-09-12 19:06:28 UTC
